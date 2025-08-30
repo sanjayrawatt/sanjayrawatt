@@ -60,7 +60,7 @@ I enjoy working at the intersection of backend engineering and system design, le
 ## 📌 Featured Projects  
 
 - 🔹 **AI-Powered Workflow Automation Tool** → Automated spreadsheet workflows with ML, reducing manual entry time by **80%**.  
-- 🔹 **CRM Backend System** → REST API CRM with JWT auth, managing **15K+ records**.  
+- 🔹 **CRM Software Management** → REST API CRM with JWT auth, managing **15K+ records**.  
 - 🔹 **Cloud-Based File Storage** → Built secure cloud storage with AWS S3 + Express.js, handling **1000+ files/day**.  
 
 ---
