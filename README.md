@@ -10,9 +10,6 @@ I started my journey with Data Structures & Algorithms, where I’ve sharpened m
 
 I enjoy working at the intersection of backend engineering and system design, leveraging technologies like Node.js, Express.js, MongoDB, Redis, and AWS to build performant, real-world applications.
 
-Beyond coding, I’m curious about AI, automation, and digital storytelling — and I love blending technical skills with creativity to build things that make an impact.
-
-When I’m not coding, you’ll probably find me exploring new tech stacks, solving algorithmic challenges, or listening to music while debugging 🎧.
 
 ---
 
