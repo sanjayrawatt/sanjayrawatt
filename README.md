@@ -9,7 +9,7 @@
 
 I’m **Sanjay Singh Rawat**, a Computer Science undergrad at **Graphic Era Hill University (2022–2026)** with a passion for building scalable systems and solving complex problems through code.  
 
-I started my journey with **Data Structures & Algorithms**, sharpening my problem-solving skills (**LeetCode 1800+, CodeChef 3★**). Over time, I transitioned into **full-stack development**, creating projects ranging from **AI-powered workflow tools** to **CRM backends** and **cloud storage systems**.  
+I started my journey with **Data Structures & Algorithms**, sharpening my problem-solving skills (**LeetCode 2000+, CodeChef 3★**). Over time, I transitioned into **full-stack development**, creating projects ranging from **AI-powered workflow tools** to **CRM backends** and **cloud storage systems**.  
 
 I enjoy working at the intersection of **backend engineering and system design**, leveraging technologies like **Node.js, Express.js, MongoDB, Redis, and AWS** to build performant, real-world applications.  
 
@@ -23,7 +23,7 @@ I enjoy working at the intersection of **backend engineering and system design**
   <a href="https://www.linkedin.com/in/sanjay-singh-rawat-2483471a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/sanjayrawat.30"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://sanjay-rawat-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/dameons_caraxes/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/dameons_T/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 
