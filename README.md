@@ -9,11 +9,12 @@
 
 I’m **Sanjay Singh Rawat**, a Computer Science undergrad at **Graphic Era Hill University (2022–2026)** with a passion for building scalable systems and solving complex problems through code.  
 
-I started my journey with **Data Structures & Algorithms**, sharpening my problem-solving skills (**LeetCode 2000+, CodeChef 3★**). Over time, I transitioned into **full-stack development**, creating projects ranging from **AI-powered workflow tools** to **CRM backends** and **cloud storage systems**.  
+I started with **Data Structures & Algorithms**, achieving:  
+- **LeetCode 2100+**  
+- **CodeChef 4★**  
+- **Specialist @ Codeforces**  
 
-I enjoy working at the intersection of **backend engineering and system design**, leveraging technologies like **Node.js, Express.js, MongoDB, Redis, and AWS** to build performant, real-world applications.  
-
-
+Over time, I transitioned into **backend & system design**, building real-world applications using **Node.js, Express.js, MongoDB, Redis, AWS**, and more.  
 
 ---
 
@@ -21,16 +22,15 @@ I enjoy working at the intersection of **backend engineering and system design**
 <p align="center">
   <a href="mailto:sanjaysinghrawatk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sanjay-singh-rawat-2483471a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/sanjayrawat.30"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://sanjay-rawat-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://leetcode.com/u/daemon_T/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Balerion_Black_Dread"><img src="https://img.shields.io/badge/CodeForces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/daemon_t"><img src="https://img.shields.io/badge/CodeChef-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
-
 
 ---
 
 ## 💻 Tech Stack  
-
 ### 🚀 Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -63,11 +63,37 @@ I enjoy working at the intersection of **backend engineering and system design**
 
 ---
 
-## 📌 Featured Projects  
+# 📌 Featured Projects  
 
-- 🔹 **AI-Powered Workflow Automation Tool** → Automated spreadsheet workflows with ML, reducing manual entry time by **80%**.  
-- 🔹 **CRM Software Management** → REST API CRM with JWT auth, managing **15K+ records**.  
-- 🔹 **Cloud-Based File Storage** → Built secure cloud storage with AWS S3 + Express.js, handling **1000+ files/day**.  
+---
+
+## 🔹 **Customer Churn Prediction System**
+📁 Repo: https://github.com/sanjayrawatt/Customer-Churn-Prediction-System  
+<a href="https://customer-churn-prediction-system-crgcyc4xjy3aurhhwjzgta.streamlit.app/"><img src="https://img.shields.io/badge/Live Demo-32CD32?style=for-the-badge" /></a>
+
+- Built an end-to-end ML system using **XGBoost, FastAPI & Streamlit**  
+- Designed a production-ready churn prediction pipeline  
+- Integrated interactive dashboards for real-time predictions  
+
+---
+
+## 🔹 **AI Resume Builder**
+📁 Repo: https://github.com/sanjayrawatt/AI-Resume-Builder  
+<a href="https://ai-resume-builder-rho-snowy.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-32CD32?style=for-the-badge" /></a>
+
+- Generates ATS-optimized resumes using **NLP + AI prompts**  
+- Built full-stack with **Node.js + React + Tailwind**  
+- Export resumes in **multiple templates & formats**  
+
+---
+
+## 🔹 **QuickAI – Full Stack AI App**
+📁 Repo: https://github.com/sanjayrawatt/QuickAI-Full-Stack  
+<a href="https://quick-ai-full-stack-lemon.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-32CD32?style=for-the-badge" /></a>
+
+- Multi-tool AI SaaS (Image, Chat, Code, Audio, PDF AI)  
+- Built with **Next.js, Tailwind, MongoDB, Stripe**  
+- Integrated **role-based auth**, credits, and usage tracking  
 
 ---
 
