@@ -69,7 +69,7 @@ Over time, I transitioned into **backend & system design**, building real-world 
 
 ## 🔹 **Customer Churn Prediction System**
 📁 Repo: https://github.com/sanjayrawatt/Customer-Churn-Prediction-System  
-<a href="https://customer-churn-prediction-system-q4wjmmfuyc4wukkffro2pz.streamlit.app/" /></a>
+<a href="https://customer-churn-prediction-system-q4wjmmfuyc4wukkffro2pz.streamlit.app/"><img src="https://img.shields.io/badge/Live Demo-32CD32?style=for-the-badge" /></a>
 
 - Built an end-to-end ML system using **XGBoost, FastAPI & Streamlit**  
 - Designed a production-ready churn prediction pipeline  
