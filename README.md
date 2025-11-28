@@ -1,5 +1,3 @@
-[![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.webp)](https://sanjay-singh-rawat-portfolio.netlify.app/)
-
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">Backend-leaning developer building performant services with Node.js, MongoDB, and C++ (DSA)</h3>
 
@@ -120,5 +118,3 @@ Over time, I transitioned into **backend & system design**, building real-world 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sanjayrawatt&icon=0&color=0" alt="Profile Views Counter" />
 </p>
-
----
